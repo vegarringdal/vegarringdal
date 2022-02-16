@@ -1,4 +1,6 @@
-### Hi there 👋
+# I 💖 all web related tech 😄
+
+I also have this profile at work: [@VegarRingdalAibel](https://github.com/VegarRingdalAibel) (mostly private projects atm)
 
 <!--
 **vegarringdal/vegarringdal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
