@@ -13,13 +13,19 @@ Misc apps Ive made with the help of AI in 2026.
 - [sqlite custom vfs](vegarringdal/sqllitedebug)
 
 #### Applications - Simple viewers/helpers
-- [dexpi-viewer](https://github.com/vegarringdal/dexpi-viewer) 
+- [dexpi-viewer](https://vegarringdal.github.io/dexpi-viewer/)
+  - for viewing dexpi 2.0+ files and data  
+- [scaffolder](https://vegarringdal.github.io/scaffolder/)
+  - building HAKI scaffold and exporting as glb
 - [dxfviewer](https://vegarringdal.github.io/dxf-viewer/)
+  - viewing dxf files
 - [pdf-search](https://vegarringdal.github.io/pdf-search/)
+  - find words/tags on pdf, and view/markup/rearrange pages
 - [blockdiagram](https://vegarringdal.github.io/blockdiagram/)
+  - simple cable data to graphical block diagram
 - [treDeSpace](https://tredespace.com/)
+  - simple cad 3d viewer (rvm/ifc/step)
   - [docs for this app](https://tredespace.com/docs/)
-
 
 
 
