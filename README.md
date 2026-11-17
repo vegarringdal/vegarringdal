@@ -8,7 +8,6 @@ Misc apps Ive made with the help of AI in 2026.
 - [rvm2glb](https://vegarringdal.github.io/rvm2glb/)
 - [step2glb](https://vegarringdal.github.io/step2glb/)
 - [ifc2glb](https://vegarringdal.github.io/ifc2glb/)
-- nwd2glb... kinda working, dunno if I can share
 - [simple-html/grid](vegarringdal/simple-html)
 - [sqlite custom vfs](vegarringdal/sqllitedebug)
 
@@ -24,7 +23,7 @@ Misc apps Ive made with the help of AI in 2026.
 - [blockdiagram](https://vegarringdal.github.io/blockdiagram/)
   - simple cable data to graphical block diagram
 - [treDeSpace](https://tredespace.com/)
-  - simple cad 3d viewer (rvm/ifc/step)
+  - simple cad 3d viewer (rvm/ifc/step++)
   - [docs for this app](https://tredespace.com/docs/)
 
 
